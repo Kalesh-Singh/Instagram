@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kales.DESKTOP-E097GGF\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\kales.DESKTOP-E097GGF\Desktop\AndroidNProjects\Instagram Clone\Instagram\build\intermediates\pre-dexed\debug\okio-1.11.0_86bad39bb0ac24ca8e3d208dad6926d56280ccd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kales.DESKTOP-E097GGF\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\kales.DESKTOP-E097GGF\Desktop\AndroidNProjects\Instagram Clone\Instagram\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_663743053b6cdef18d6cb815dadc9e90eb1cd885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kales.DESKTOP-E097GGF\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\kales.DESKTOP-E097GGF\Desktop\AndroidNProjects\Instagram Clone\Instagram\build\intermediates\pre-dexed\debug\okhttp-3.6.0_80c33cbb3e52e6687dc9ad0a111b4e7869d95e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kales.DESKTOP-E097GGF\.android\build-cache\8e1d8667418974e9821f109deb686966690bcaac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93eb8e6b2424135c50f2dfccb117a9611a2a6f3c">
+        <dex dex="C:\Users\kales.DESKTOP-E097GGF\Desktop\AndroidNProjects\Instagram Clone\Instagram\build\intermediates\pre-dexed\debug\classes_0589e52d5189c2aa315ba74444b6003854181859.jar" />
+    </item>
+
+</items>
